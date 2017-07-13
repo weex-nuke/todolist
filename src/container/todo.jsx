@@ -11,8 +11,8 @@ class Todo extends Component {
       super(props);
       this.state = {};
     }
-    modifyItem = (index) =>{
-        this.props.dispatch(modifyItem(index))
+    modifyItem = (item) =>{
+        this.props.dispatch(modifyItem(item))
     }
     addItem =(obj) =>{
         this.props.dispatch(addItem(obj));
