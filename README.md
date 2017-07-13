@@ -1,6 +1,4 @@
-# example-redux
-
-redux 实用示例
+# todolist with redux
 
 ## 介绍
 - 本示例需要运行在含 weex 容器的版本中（如千牛、淘宝， APP版本最新版）
