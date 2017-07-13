@@ -1,0 +1,10 @@
+{
+    "presets": ["es2015", "stage-0", "react"],
+    "plugins": [
+        "add-module-exports",
+        "transform-react-display-name",
+        "transform-class-properties",
+        "transform-decorators-legacy",
+        ["transform-react-jsx", { "pragma": "createElement" }]
+    ]
+}

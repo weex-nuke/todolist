@@ -1,0 +1,6 @@
+node_modules/
+_output/
+build/
+lib/
+.happypack/
+.jssdk.json

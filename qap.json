@@ -1,0 +1,20 @@
+{
+  "appKey": "your appkey",
+  "version": "2.0.8",
+  "jssdk": "1.0.19",
+  "min_qn_android": "5.8.2",
+  "min_qn_ios": "5.8.2",
+  "pages": [
+    {
+      "default": true,
+      "cabability": "itemChoose",
+      "url": "qap://index.js"
+    }
+  ],
+  "iconfonts": [
+    {
+      "localpath": "font_v70y90tki0t6s9k9.ttf",
+      "url": "https://at.alicdn.com/t/font_v70y90tki0t6s9k9.ttf"
+    }
+  ]
+}
